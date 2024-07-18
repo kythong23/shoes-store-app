@@ -1,0 +1,19 @@
+{
+  "voucher": [
+    {
+      "id": "0",
+      "name": "KMT7",
+      "description": "20"
+    },
+    {
+      "id": "1",
+      "name": "SummerJuly",
+      "description": "30"
+    },
+    {
+      "id": "2",
+      "name": "TKYYY",
+      "description": "40"
+    }
+  ]
+}
